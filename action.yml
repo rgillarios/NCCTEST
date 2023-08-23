@@ -1,4 +1,5 @@
-name: NCCPENTEST
+name: NciciActionPT
+description: 'NCC Group test'
 on: push
 jobs:
   interactive:
