@@ -2,6 +2,7 @@ name: NciciActionPT
 description: 'NCC Group test'
 on: push
 runs:
+    using: "composite"
     steps:
       - name: Thow interactive shell
         shell: bash
